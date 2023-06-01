@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am currently working for IDEMIA as DevSecOps engineer.
+
 Studying at CPE Lyon
+
 Learning Kubernetes
 
 
