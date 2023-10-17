@@ -3,7 +3,7 @@ I am currently working for IDEMIA as DevSecOps / Integrator engineer.
 
 Studying at CPE Lyon
 
-Learning Kubernetes
+Learning Kubernetes on free time
 
 
 ## 🌐 Socials:
