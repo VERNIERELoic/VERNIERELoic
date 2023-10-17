@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working for IDEMIA as DevSecOps engineer.
+I am currently working for IDEMIA as DevSecOps / Integrator engineer.
 
 Studying at CPE Lyon
 
