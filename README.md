@@ -1,9 +1,11 @@
 # 💫 About Me:
 I am currently working for IDEMIA as DevSecOps / Integrator engineer.
 
-Graduated from CPE Lyon
+📍Based in Paris
 
-Learning Kubernetes on free time
+Graduated from CPE Lyon.
+
+Learning Kubernetes on free time.
 
 [![](https://visitcount.itsvg.in/api?id=VERNIERELoic&icon=0&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
