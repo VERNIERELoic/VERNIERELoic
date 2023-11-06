@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am currently working for IDEMIA as DevSecOps / Integrator engineer.
 
-📍Based in Paris
+Based in Paris 📍
 
 Graduated from CPE Lyon.
 
