@@ -5,7 +5,7 @@ Based in Paris 📍
 
 Graduated from CPE Lyon.
 
-Learning Kubernetes on free time.
+Learning Kubernetes.
 
 [![](https://visitcount.itsvg.in/api?id=VERNIERELoic&icon=0&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
