@@ -1,11 +1,9 @@
 # 💫 About Me:
-I am currently working for IDEMIA as DevSecOps / Integrator engineer.
+I am currently working for IDEMIA as infrastructure engineer.
 
-Based in Paris 📍
+Based in Singapore 📍
 
 Graduated from CPE Lyon.
-
-Learning Kubernetes.
 
 [![](https://visitcount.itsvg.in/api?id=VERNIERELoic&icon=0&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
