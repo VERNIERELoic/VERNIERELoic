@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working for IDEMIA as infrastructure engineer.
+I am currently working for IDEMIA as DevOps / infrastructure engineer.
 
 Based in Singapore 📍
 
