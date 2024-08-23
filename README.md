@@ -1,6 +1,6 @@
 <h2 align="center">DevOps Engineer</h2>
 
-- You can each me at contact@loicverniere.fr
+- You can reach me at contact@loicverniere.fr
 - On [Linkedin](https://linkedin.com/in/loic-verniere)
 
 
