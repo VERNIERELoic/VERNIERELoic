@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-- 💻 I am currently working for IDEMIA as DevOps and infrastructure engineer.
+- 💻 I am currently working at IDEMIA as DevOps and infrastructure engineer.
 - 📍Based in Singapore 
 - 🎓 Graduated from CPE Lyon (Computer science and cybersecurity)
 
