@@ -3,8 +3,8 @@
 - You can reach me at contact@loicverniere.fr
 - On [Linkedin](https://linkedin.com/in/loic-verniere)
 
-
 # 💫 About Me:
+- 📚 Currently learning about K8S Operator development. (env: k3d, kubebuilder, Go)
 - 💻 I am currently working at IDEMIA as DevOps and infrastructure engineer.
 - 📍Based in Singapore 
 - 🎓 Graduated from CPE Lyon (Computer science and cybersecurity)
