@@ -1,6 +1,6 @@
 <h2 align="center">DevOps Engineer</h2>
 
-- You can reach me at contact@loicverniere.fr
+- You can reach me at loic.verniere@protonmail.com
 - On [Linkedin](https://linkedin.com/in/loic-verniere)
 
 # 💫 About Me:
