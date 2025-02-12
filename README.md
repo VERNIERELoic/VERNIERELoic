@@ -5,6 +5,7 @@
 
 # 💫 About Me:
 - 📚 Currently learning about K8S Operator development. (env: k3d, Operator SDK Go)
+- 🪙 Strong interest in blockchain technology
 - 💻 I am currently working at IDEMIA as DevOps and infrastructure engineer.
 - 📍Based in Singapore 
 - 🎓 Graduated from CPE Lyon (Computer science and cybersecurity)
