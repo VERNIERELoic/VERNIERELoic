@@ -1,14 +1,9 @@
 <h2 align="center">DevOps Engineer</h2>
 
-- You can reach me at loic.verniere@protonmail.com
 - On [Linkedin](https://linkedin.com/in/loic-verniere)
 
 # 💫 About Me:
 - 📚 Currently learning about K8S Operator development. (env: k3d, Operator SDK Go)
-- 🪙 Strong interest in blockchain technology
-- 💻 I am currently working at IDEMIA as DevOps and infrastructure engineer.
-- 📍Based in France
-- 🎓 Graduated from CPE Lyon (Computer science and cybersecurity)
 
 <!-- # 💻 Tech Stack:
 ### dev : ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)  -->
